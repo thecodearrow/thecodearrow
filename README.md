@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently procrastinating on building this README page.... Until then, you can find out about me over here— https://prashanthvaidya.codes/
+![About Me](https://github.com/thecodearrow/thecodearrow/blob/master/about.png)
+
+You can find out about me over here— https://prashanthvaidya.codes/
