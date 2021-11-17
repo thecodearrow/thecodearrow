@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![About Me](https://github.com/thecodearrow/thecodearrow/blob/master/about.png)
 
-You can find out about me over here— https://prashanthvaidya.codes/
+You can find out about me over here— https://prashanth-vaidya.web.app/
