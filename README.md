@@ -89,11 +89,10 @@ Becoming world-class at product + systems thinking
 
 🐦 Twitter/X: @pvbuilds
 
-🧑‍💻 GitHub: https://github.com/thecodearrow
 
 📌 Philosophy
 
-Build tools you wish existed.
+Build apps you wish existed.
 Ship fast.
 Own the full stack.
 Let users shape the product.
