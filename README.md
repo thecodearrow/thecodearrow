@@ -4,7 +4,7 @@ Indie builder. Backend & distributed systems engineer. AI-native product creator
 
 I design, architect, and ship products end-to-end — from idea → system design → implementation → launch → iteration.
 
-Currently building under Indie Genie Labs — AI-powered apps focused on physical and mental wellness.
+Currently building under Indie Genie Labs : AI-powered apps focused on physical and mental wellness.
 
 🚀 What I’m Building
 
