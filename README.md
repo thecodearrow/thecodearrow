@@ -7,6 +7,7 @@ I design, architect, and ship products end-to-end — from idea → system desig
 Currently building under Indie Genie Labs — AI-powered apps focused on physical and mental wellness.
 
 🚀 What I’m Building
+
 🧞 The Running Genie
 
 AI-powered running coach that generates adaptive training plans using real performance data.
