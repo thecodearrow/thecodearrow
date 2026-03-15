@@ -8,6 +8,7 @@ idea → architecture → implementation → launch → iteration
 Currently building under Indie Genie Labs, focused on AI tools for physical and mental wellbeing.
 
 🚀 What I'm Building
+
 🧞 The Running Genie
 
 AI-powered running coach that generates adaptive training plans from real performance data.
