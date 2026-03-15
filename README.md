@@ -12,7 +12,7 @@ Currently building under **Indie Genie Labs**, focused on AI tools for physical 
 
 # 🚀 What I'm Building
 
-## 🧞 The Running Genie
+## 🏃 The Running Genie
 AI-powered running coach that generates adaptive training plans from real performance data.
 
 - Personalized **5K → Ultra** plans  
