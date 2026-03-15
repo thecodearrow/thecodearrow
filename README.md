@@ -1,101 +1,79 @@
-👋 Hey, I’m Prashanth Vaidya
+👋 Hi, I'm Prashanth Vaidya
 
-Indie builder. Backend & distributed systems engineer. AI-native product creator.
+Indie builder and backend/distributed systems engineer building AI-native consumer apps.
 
-I design, architect, and ship products end-to-end — from idea → system design → implementation → launch → iteration.
+I design and ship products end-to-end:
+idea → architecture → implementation → launch → iteration
 
-Currently building under Indie Genie Labs : AI-powered apps focused on physical and mental wellness.
+Currently building under Indie Genie Labs, focused on AI tools for physical and mental wellbeing.
 
-🚀 What I’m Building
-
+🚀 What I'm Building
 🧞 The Running Genie
 
-AI-powered running coach that generates adaptive training plans using real performance data.
+AI-powered running coach that generates adaptive training plans from real performance data.
 
-Personalized 5K → Ultra plans
+• Personalized 5K → Ultra plans
+• Strava-based insights
+• Endurance science backed programming
+• AI chat grounded in training history
 
-Strava-based contextual insights
+Built for runners who want intelligent progression, not generic PDFs.
 
-Endurance-science backed programming
+🥗 Health Genie (in progress)
 
-AI chat grounded in real training history
+AI wellness assistant focused on everyday health habits.
 
-Built for runners who care about intelligent progression, not generic PDFs.
+• Nutrition insights
+• Sleep and recovery tracking
+• Movement and lifestyle guidance
+• Practical health recommendations
 
 ⚡ Productivity Genie (in progress)
 
-AI accountability & focus system designed for builders and creators.
+AI accountability system designed for builders and creators.
 
-Momentum tracking
-
-Structured execution
-
-Minimal, intentional UX
+• Momentum tracking
+• Structured execution
+• Minimal, intentional UX
 
 🙏 Gratitude Genie
 
-A mental wellness journaling app focused on reflection and clarity.
+Mental wellness journaling app focused on reflection and clarity.
 
-Clean writing-first experience
+• Writing-first design
+• Thousands of entries logged
+• 4.7★ user rating
 
-Thousands of entries logged
+🛠 Open Source
 
-4.7★ user rating
-
-🛠️ Open Source Tools
-
-I open-source the tools I build along the way (just starting to do so and planning to give back to the community).
-
-Project	Description
 App Store Screenshot Generator
-	Free, browser-based App Store screenshot builder. Built after getting frustrated with overpriced tools. React + Canvas. Fully offline.
+Free browser-based screenshot builder created after getting frustrated with overpriced tools.
+
+React + Canvas. Fully offline.
 
 🧠 Engineering Background
 
-M.Tech, Computer Science — IIT Hyderabad
+M.Tech (Computer Science) — IIT Hyderabad
 
-Backend & distributed systems engineer
+Backend & distributed systems engineer focused on:
 
-Experience designing event-driven systems
-
-Focused on correctness, scale, and production reliability
-
-I enjoy:
-
-Designing event-driven architectures
-
-Building AI-native consumer apps
-
-Shipping fast and iterating based on real users
-
-Going from 0 → production
+• event-driven architectures
+• correctness and reliability
+• scalable systems
 
 🎯 Current Focus
 
-Shipping AI-first consumer apps
+• Building AI-first consumer apps
+• Shipping fast and iterating with real users
+• Blending endurance science + AI
+• Becoming world-class at product + systems thinking
 
-Designing systems that scale
+🌐 Find Me
 
-Building in public
+Portfolio: https://prashanth-vaidya.web.app
 
-Blending endurance science + AI
+Indie Lab: https://indiegenielabs.com
 
-Becoming world-class at product + systems thinking
+Twitter/X: @pvbuilds
 
-🌐 Find Me Here
-
-🌍 Portfolio: https://prashanth-vaidya.web.app
-
-🧪 Indie Lab: https://indiegenielabs.com
-
-🐦 Twitter/X: @pvbuilds
-
-
-📌 Philosophy
-
-Build apps you wish existed.
-Ship fast.
-Own the full stack.
-Let users shape the product.
-
-The best work is still coming.
+Build apps you wish existed. Ship fast. Let users shape the product.
