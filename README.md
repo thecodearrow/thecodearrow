@@ -25,13 +25,13 @@ Built for runners who want **intelligent progression**, not generic PDFs.
 ---
 
 ## 🥗 Health Genie *(in progress)*
-AI wellness assistant focused on everyday health habits.
 
-- Nutrition insights  
-- Sleep and recovery tracking  
-- Movement and lifestyle guidance  
-- Practical health recommendations  
+AI-powered health companion that turns wearable data into a single daily signal.
 
+- Apple Watch data distilled into a **Vitality Score**
+- AI-powered **morning health brief**
+- Smart nudges to improve **sleep, recovery, and activity**
+- Designed to help people **stay consistent with their health**
 ---
 
 ## ⚡ Productivity Genie *(in progress)*
